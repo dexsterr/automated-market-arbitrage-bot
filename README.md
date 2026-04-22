@@ -7,19 +7,15 @@ An event-driven automation framework built in Node.js, designed to perform high-
 
 ---
 
-### System Overview
-
-This project simulates mechanisms found in High-Frequency Trading (HFT) and automated arbitrage bots. It operates 24/7 in a remote server environment, constantly scanning market data, parsing complex item metadata, and automatically executing purchase logic based on predefined JSON configurations.
-
 ## 📸 Showcase / Screenshots
 
 ### Central Control Dashboard
-![Dashboard](dashboard_screen.png)
-*Fig 1. The main web interface for monitoring agent status, market activity, and overall profitability.*
+![Dashboard](MAIN%20SCREEN.png)
+*Fig 1. The main web interface for monitoring and managing multiple arbitrage agents, displaying real-time instance statuses and owner assignments.*
 
 ### Arbitrage Configuration & Log Terminal
-![Control Panel](control_panel.png)
-*Fig 2. Configuration panel demonstrating live telemetry, Discord SIEM integration, and manual execution overrides.*
+![Control Panel](PANEL.png)
+*Fig 2. Advanced configuration panel demonstrating live telemetry, a real-time event execution terminal (tracking transaction successes and failures), and the JSON-based arbitrage logic editor.*
 
 ---
 
